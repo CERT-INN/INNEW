@@ -10,7 +10,7 @@ With the aim of making the activity of collecting and sharing alerts, warnings, 
 
 A free istance of INNEW v1.0 will be released as soon as possible. The free version is shared within CERT/SOC communities and every users, upon registration via email, will be provided with access to a FREE dashboard where we will group all alerts related to the most threatened client applications, the so-called **Most Attacked Endpoint Software**.
 It is dedicated to most exposed and widespread client-side applications, including mobile software. 
-You will find all details, here on github, at **[IS-FREE]** (https://github.com/cert-inn/innew/is-free/).
+You will find all details, here on github, at **[IS-FREE]** (https://github.com/cert-inn/innew/tree/main/is-free).
 
 ## Features
 
