@@ -1,0 +1,10 @@
+cpe:2.3:o:google:android
+cpe:2.3:o:apple:iphone_os
+cpe:2.3:o:apple:ipados
+cpe:2.3:a:mozilla:firefox
+cpe:2.3:a:apple:safari
+cpe:2.3:a:google:chrome
+cpe:2.3:a:signal:signal:-:*:*:*:*:iphone_os
+cpe:2.3:a:signal:private_messenger
+cpe:2.3:a:whatsapp:whatsapp
+cpe:2.3:a:telegram:telegram
