@@ -37,11 +37,11 @@ It's worth to note that these are just a few examples of commonly targeted clien
 
 **Changes**
 
-If you have updates to improve to the CPEs list, such as a new CPE, spelling/syntax errors, etc., please send a [pull request] (https://www.freecodecamp.org/news/how-to-make-your-first-pull-request-on-github-3/) to join us.
+If you have updates to improve to the CPEs list, such as a new CPE, spelling/syntax errors, etc., please send a [pull request](https://www.freecodecamp.org/news/how-to-make-your-first-pull-request-on-github-3/) to join us.
 
 **Responding to Issues**
 
-Issues require more than just users to suggest them. Issues require active community members to read and respond to proposals. Even adding simple [emoji reactions] (https://github.blog/2016-03-10-add-reactions-to-pull-requests-issues-and-comments/) can help the community.
+Issues require more than just users to suggest them. Issues require active community members to read and respond to proposals. Even adding simple [emoji reactions](https://github.blog/2016-03-10-add-reactions-to-pull-requests-issues-and-comments/) can help the community.
 
 ## License
 
