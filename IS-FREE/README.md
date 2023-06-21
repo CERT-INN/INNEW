@@ -27,8 +27,8 @@ It's worth to note that these are just a few examples of commonly targeted clien
 
 ## **Endpoint CPE lists**
 
-**Endpoint CPE lists of the most popular desktop software:**
-[DESKTOP] (https://github.com/cert-inn/innew/is-free/blob/master/DESKTOP.txt)
+**Endpoint CPE lists of the most popular desktop software:** 
+[DESKTOP] (https://github.com/CERT-INN/INNEW/tree/main/IS-FREE/DESKTOP.txt) 
 
 **Endpoint CPE lists of the most popular mobile software:**
 [MOBILE] (https://github.com/cert-inn/innew/is-free/blob/master/MOBILE.txt)
